@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/BeforeYouGo_React/static/css/main.bfad410a.css",
+    "main.js": "/BeforeYouGo_React/static/js/main.2defa392.js",
+    "static/media/logo-transparent.png": "/BeforeYouGo_React/static/media/logo-transparent.af31673cfacfee90790c.png",
+    "index.html": "/BeforeYouGo_React/index.html",
+    "main.bfad410a.css.map": "/BeforeYouGo_React/static/css/main.bfad410a.css.map",
+    "main.2defa392.js.map": "/BeforeYouGo_React/static/js/main.2defa392.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfad410a.css",
+    "static/js/main.2defa392.js"
+  ]
+}
